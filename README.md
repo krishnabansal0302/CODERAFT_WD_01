@@ -2,7 +2,7 @@
 🌐 Responsive Navigation Landing Page
 A simple responsive landing page featuring a fixed navigation bar that changes style on scroll and includes hover effects on menu items.
 
-🚀 Features
+🚀 **Features**
 ✅ Fixed Header: Stays at the top while scrolling
 
 🎨 Hover Effect: Navigation links change color when hovered
@@ -14,20 +14,20 @@ A simple responsive landing page featuring a fixed navigation bar that changes s
 💡 Clean Design: Minimal, modern, and easy to customize
 
 
-🛠️ How to Use
-Clone or Download this repository
+🛠️ **How to Use**
+1.Clone or Download this repository
 
-Open index.html in any modern web browser
+2.Open index.html in any modern web browser
 
-Scroll the page to see the navigation bar style change
+3.Scroll the page to see the navigation bar style change
 
-Hover over the menu items to see the hover effect
+4.Hover over the menu items to see the hover effect
 
-🧩 Technologies Used
+🧩 **Technologies Used**
 HTML5
 
 CSS3
 
 JavaScript (Vanilla)
 
-Thank You, For Giving me Opportunity.
+**Thank You, For Giving me Opportunity.**
